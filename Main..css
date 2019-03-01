@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+nav ul {
+    background: black;
+    color: whitesmoke;
+    display: inline-block;
+}
